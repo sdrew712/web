@@ -1,0 +1,10 @@
+The internet is a bunch of computers communicating with each other. 
+When people host websites, they would like to be able to close their computers without
+their website going down, so they often host them using computers that always run, for
+example, ones owned by Amazon.
+
+A domain is a link to an IP address that is easy for users to remember. When you click
+on a link, your browser tries to find the IP address for that site through different ways.
+It starts by checking your local cache. If the address cannot be found there, it checks
+your modem, then asks your ISP, then finally, if it still cannot locate the address, gets
+it from the root DNS server.
